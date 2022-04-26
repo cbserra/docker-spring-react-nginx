@@ -1,0 +1,6 @@
+[submodule "springboot"]
+	path = springboot
+	url = git@github.com:cbserra/docker-springboot.git
+[submodule "react"]
+	path = react
+	url = git@github.com:cbserra/docker-react.git
