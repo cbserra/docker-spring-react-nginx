@@ -1,4 +1,4 @@
-# DockerSpringBootReactNginX
+# docker-spring-react-nginx
 
 Dockerized React, SpringBoot and NginX. You can run it with one docker-compose command.
 
